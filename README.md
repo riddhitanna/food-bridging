@@ -1,4 +1,4 @@
-# food-bridging
+# Analysing food-pairing and food-bridging in world cuisines using NetworkX 
 This repository contains code for analysing food-pairing and food-bridging on a flavour network with recipes from 7 different cuisines.
 ---
 metric_semi_metric.ipynb: code for making the metric and semi-metric backbone
