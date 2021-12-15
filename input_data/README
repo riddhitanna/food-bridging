@@ -1,0 +1,11 @@
+- flavor_network_backbone_nodes.tsv: this tab-seprated file contains the information about the nodes in the backbone shown in Fig 2 of the paper. Note that the ingredient name may contain spaces. 
+
+columns:
+
+ingredient name | x-coordinate | y-coordinate | prevalence | r | g | b |
+
+- flavor_network_backbone_edges.tsv: this tab-seprated file contains the information about the edges in the backbone shown in Fig 2 of the paper. Note that the ingredient name may contain spaces. 
+
+columns:
+
+ingredient 1 | ingredient 2 | number of shared compounds
